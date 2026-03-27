@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════
-   JOEL PORTFOLIO — Script
+   ACHIL PORTFOLIO — Script
    Canvas animation, scroll effects, form handling, custom cursor
    ═══════════════════════════════════════════════════════════════ */
 
